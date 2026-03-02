@@ -1,8 +1,8 @@
 # FILE NAME - compliment_01.py
 
-# NAME: 
-# DATE: 
-# BRIEF DESCRIPTION:  
+# NAME: Mike Cintron
+# DATE: 3.1.2026
+# BRIEF DESCRIPTION:  code that uses control flow within a if, if-else statement to allow the user to decide if they want a compliment or not.
 
 
 
@@ -14,6 +14,14 @@
 
 
 ########## ENTER YER CODE BELOW THIS LINE ##########
+
+user_reply = input("Would you like a compliment? ")
+
+if user_reply == "yes":
+    print("You look amazing today!!!")
+
+else:
+    print("Thank you for playing.")
 
 
 
