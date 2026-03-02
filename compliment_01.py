@@ -74,11 +74,13 @@ Thank you for playing.
 '''
 
 1. On a scale of 1 to 10 (where 10 is the hardest), how would you rate this lab?
+This lab is a 2.
 
 
 
 
 2. What was the hardest part of this lab?
+Making sure the code block is indented for the "if" and "else" statements.
 
 
 
