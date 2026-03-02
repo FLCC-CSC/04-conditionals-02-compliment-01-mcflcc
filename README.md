@@ -1,3 +1,4 @@
+[![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-2972f46106e565e64193e422d61a12cf1da4916b45550586e14ef0a7c637dd04.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=22920243)
 # FILE NAME - compliment_01.py
 
 # NAME: Mike Cintron
@@ -80,7 +81,7 @@ This lab is a 2.
 
 
 2. What was the hardest part of this lab?
-The hardest part in making sure to indent when writing the block code for the if and else statements.
+Making sure the code block is indented for the "if" and "else" statements.
 
 
 
